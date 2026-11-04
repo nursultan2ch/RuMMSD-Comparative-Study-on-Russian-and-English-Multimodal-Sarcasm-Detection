@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+requests
+pillow
+torch
+torchvision
+transformers
+boto3
+openai==0.28
